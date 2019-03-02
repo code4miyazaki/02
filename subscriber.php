@@ -1,6 +1,4 @@
 <?php
-include 'ChromePhp.php';
-ChromePhp::log('Hello console!日本語もOK');
 $USER= 'kenzkenz_miya';
 $PW= 'miyazaki';
 $dnsinfo= "mysql:dbname=kenzkenz_kisyou;host=mysql1203b.xserver.jp;charset=utf8";
